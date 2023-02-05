@@ -1,0 +1,7 @@
+D:\c#언어\둘쨋날\ConsoleApp1\homework\bin\Debug\homework.exe.config
+D:\c#언어\둘쨋날\ConsoleApp1\homework\bin\Debug\homework.exe
+D:\c#언어\둘쨋날\ConsoleApp1\homework\bin\Debug\homework.pdb
+D:\c#언어\둘쨋날\ConsoleApp1\homework\obj\Debug\homework.csproj.AssemblyReference.cache
+D:\c#언어\둘쨋날\ConsoleApp1\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+D:\c#언어\둘쨋날\ConsoleApp1\homework\obj\Debug\homework.exe
+D:\c#언어\둘쨋날\ConsoleApp1\homework\obj\Debug\homework.pdb
